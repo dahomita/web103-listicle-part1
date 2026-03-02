@@ -26,7 +26,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented required features:
 
-![Video Walkthrough](https://image2url.com/r2/default/gifs/1772143396352-d44d25ea-6395-4da6-8aea-320f42fe6cfa.gif)
+![Video Walkthrough](https://imgur.com/a/qmcZEGw)
 
 ---
 
